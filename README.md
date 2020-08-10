@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/DetokProject/Jumper/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/DetokProject/Jumper.svg)](https://github.com/DetokProject/Jumper/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DetokProject/Jumper.svg)](https://github.com/DetokProject/Jumper/pulls)
 [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](/LICENSE)
 
